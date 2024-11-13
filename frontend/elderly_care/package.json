@@ -22,7 +22,7 @@
     "@ionic/angular": "^8.3.0",
     "capacitor-audio": "^0.0.6",
     "gsap": "^3.12.5",
-    "ionic": "^5.4.16",
+    "ionic": "^4.1.2",
     "ionicons": "^7.4.0",
     "jest": "^29.7.0",
     "rxjs": "~7.8.0",
